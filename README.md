@@ -44,7 +44,8 @@ Time Taken : 8ms
 ```
 **Input 02**
 
-Input_02.txt is a long word list, consisting 100,000+ items
+Input_02.txt is a long word list, consisting 100,000+ items.
+
 We get as a ouput :
 
 ```

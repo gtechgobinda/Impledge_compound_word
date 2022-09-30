@@ -1,4 +1,4 @@
-# Longest Compound Word
+# Longest Compounded Word
 ### Problem Statement
 
 Write a program that:

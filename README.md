@@ -17,7 +17,7 @@ also found in the same file
 
 ### Approach
 
-Here used File Handling ArrayList, Arrays, Comparator, Hashset . Also used Recursive method and Dynamic Programming.
+Here used File Handling, ArrayList, Arrays, Comparator, Hashset . Also used Recursive method and Dynamic Programming.
 
 ### Running the code
 **Input 01**
